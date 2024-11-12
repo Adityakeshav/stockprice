@@ -12,7 +12,7 @@ A simple Streamlit app that fetches and visualizes stock price data using the `y
    ```bash
    pip install streamlit yfinance pandas
 2. Run the app:
-   '''bash
+   ```bash
    streamlit run app.py
 
    
