@@ -16,7 +16,7 @@ A simple Streamlit app that fetches and visualizes stock price data using the `y
    streamlit run app.py
 
 ### Access the Deployed App: You can view the app online at 
-```bash
+   ```bash
    https://astockprice.streamlit.app/.
 
 
